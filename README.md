@@ -1,6 +1,6 @@
 # 🧠 Machine Learning with Python: foundations
 
-This repository contains materials and code I developed while following the course **"Machine Learning with Python: foundations"** by Frederick Nwanganga.  
+This repository contains materials and exercise codes while following the course **"Machine Learning with Python: foundations"** by Frederick Nwanganga.  
 The goal of this repo is to understand the fundamentals of machine learning and practice implementing them using **Python**.
 
 ---
